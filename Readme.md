@@ -12,12 +12,12 @@ Welcome to my ** MeliLab website**! This project was created for practice and to
 
 ## Live Preview
 
-Check out the live preview of the portfolio website here:  
+Check out the live preview of the MediLap website here:  
 [**Live Demo**](#)
 
 ---
 
-## Sections of the FresFood Selling Website
+## Sections of the MediLap Website
 - **Home**
 - **About**
 - **Service**
